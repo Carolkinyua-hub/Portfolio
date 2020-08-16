@@ -1,0 +1,15 @@
+.sidebar {
+    float: right;
+
+}
+#me {
+    color: hotpink;
+    opacity: 0.3;
+}
+#ck{
+font-style: italic;
+}
+image{
+    float: left;
+    
+}

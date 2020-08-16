@@ -19,7 +19,7 @@ li{
     float: right;
 }
 li a{
-    display: inline;
+    display: block;
     padding: 8 px;
     background-color: lightslategray;
 }

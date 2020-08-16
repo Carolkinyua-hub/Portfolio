@@ -1,8 +1,11 @@
 .sidebar {
-    float: left;
+    float: right;
 
 }
-.me{
+#me {
     color: hotpink;
     opacity: 0.3;
+}
+#ck{
+font-style: italic;
 }

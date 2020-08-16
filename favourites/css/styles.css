@@ -1,4 +1,12 @@
-.sidebar{
-    float: right;
-    width: 30%;
+
+.ima {
+    height: 20px;
+    width: 720px;
+}
+li {
+    color: lightgoldenrodyellow;
+
+}
+h1{
+    color:#795548;
 }

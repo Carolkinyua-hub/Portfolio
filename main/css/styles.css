@@ -1,15 +1,28 @@
 .sidebar {
-    float: right;
+    float: left;
 
 }
-#me {
+h2 {
     color: hotpink;
     opacity: 0.3;
+    font-size: 40;
 }
 #ck{
 font-style: italic;
 }
-image{
-    float: left;
-    
+.space{
+    float: right;
+    width: 20px;
+    height:20px;
 }
+body{
+        
+  border: 2px ;
+  padding: 6px;
+   margin: 20px;
+   background-image: url("/main/images/lift\ -off.gif");
+   background-repeat: no-repeat;
+   background-size: auto;
+}
+
+

@@ -5,7 +5,7 @@
 h2 {
     color: hotpink;
     opacity: 0.3;
-    font-size: 40;
+    
 }
 #ck{
 font-style: italic;
@@ -16,9 +16,15 @@ font-style: italic;
     height:20px;
 }
 body{
-  font-size: 60;
+  font: size 120;
   border: 2px ;
   padding: 6px;
    margin: 20px;
-   background-color: lightslategray;
+   background-color: gainsboro;
+   font: 1em sans-serif;
+}
+.imge{
+
+    float: left;
+
 }

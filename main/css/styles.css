@@ -1,5 +1,5 @@
 .sidebar {
-    float: left;
+    float: right;
 
 }
 h2 {
@@ -16,13 +16,8 @@ font-style: italic;
     height:20px;
 }
 body{
-        
+  font-size: 60;
   border: 2px ;
   padding: 6px;
    margin: 20px;
-   background-image: url("/main/images/lift\ -off.gif");
-   background-repeat: no-repeat;
-   background-size: auto;
-}
-
-
+   background-color: lightslategray;

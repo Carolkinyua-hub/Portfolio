@@ -1,5 +1,9 @@
 .sidebar {
     float: right;
+    width: 700px;
+    border: 15px;
+    padding: 50px;
+    margin: 20px;
 
 }
 h2 {
@@ -17,7 +21,7 @@ font-style: italic;
     height:20px;
 }
 body{
-  font: size 120;
+  font-size: 120;
   border: 2px ;
   padding: 6px;
    margin: 20px;

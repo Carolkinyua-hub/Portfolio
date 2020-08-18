@@ -12,7 +12,7 @@ To start using this project use the following commands:
 - `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)
 
 ## License info
-MIT License
+https://choosealicense.com/licenses/mit/#
 
 Copyright (c) [2020] [Caroline Kinyua]
 

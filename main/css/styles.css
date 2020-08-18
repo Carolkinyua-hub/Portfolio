@@ -6,8 +6,10 @@
     margin: 20px;
 
 }
-#intro {
-    font-size:150;
+.intro {
+    font: size 40px;
+    font-style: oblique;
+    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 }
 h2 {
     color: hotpink;

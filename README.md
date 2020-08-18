@@ -1,12 +1,12 @@
 # Portfolio
 
 ## Authors
-- [Carolkinyua](https://github.com/Carolkinyua-hub)
+- Caroline Kinyua [Carolkinyua](https://github.com/Carolkinyua-hub)
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/carolkinyua-hub/portfolio.git`
+- `git clone https://github.com/Carolkinyua-hub/Portfolio
 - `cd portfolio`
 - `atom .`
 - `code .` [//]: # (this is if Visual Studio Code is your preferred text editor)

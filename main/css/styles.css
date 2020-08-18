@@ -6,6 +6,9 @@
     margin: 20px;
 
 }
+#intro {
+    font-size:150;
+}
 h2 {
     color: hotpink;
     opacity: 0.3;
@@ -30,6 +33,6 @@ body{
 }
 .imge{
 
-    float: left;
+    float: right;
 
 }
